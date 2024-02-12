@@ -1,0 +1,20 @@
+*{
+    background-color: blanchedalmond;
+}
+h1{
+    color: red;
+}
+#first{
+    color: blueviolet;
+}
+.second{
+    border: 10px solid red;
+    margin: 20px;
+    padding: 20px;
+}
+.third{
+    border: 5px solid pink;
+    color: blue;
+    text-align: center;
+    font-size: 30px;
+}
